@@ -1,0 +1,11 @@
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+trips/static/scss
+trips/media
+prepros.config
+Pipfile
+Pipfile.lock
+ubetrip/settings.py
